@@ -1,12 +1,12 @@
 PODS:
-  - BXToolKit (0.0.1):
-    - BXToolKit/DataTool (= 0.0.1)
-    - BXToolKit/Foundation (= 0.0.1)
-    - BXToolKit/UIKit (= 0.0.1)
-  - BXToolKit/DataTool (0.0.1):
+  - BXToolKit (0.0.2):
+    - BXToolKit/DataTool (= 0.0.2)
+    - BXToolKit/Foundation (= 0.0.2)
+    - BXToolKit/UIKit (= 0.0.2)
+  - BXToolKit/DataTool (0.0.2):
     - BXToolKit/UIKit
-  - BXToolKit/Foundation (0.0.1)
-  - BXToolKit/UIKit (0.0.1):
+  - BXToolKit/Foundation (0.0.2)
+  - BXToolKit/UIKit (0.0.2):
     - BXToolKit/Foundation
 
 DEPENDENCIES:
@@ -17,7 +17,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BXToolKit: 6e69216542af72636d988f928dbffaa8fcc730d6
+  BXToolKit: 8e4c26ccc348c95ee8bcb4351281195a14da48f1
 
 PODFILE CHECKSUM: 226f6a0f2eac129c6635a9117bef0fe2639a0fe6
 
