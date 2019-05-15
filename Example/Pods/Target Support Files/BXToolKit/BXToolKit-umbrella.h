@@ -12,6 +12,7 @@
 
 #import "BXDataCenter.h"
 #import "BXDataSqlUtil.h"
+#import "BXDataTool.h"
 #import "BXFileUtil.h"
 #import "BXKeychain.h"
 #import "BXKeychainQuery.h"
@@ -21,6 +22,7 @@
 #import "FMDatabaseQueue.h"
 #import "FMDB.h"
 #import "FMResultSet.h"
+#import "BXFoundationAddition.h"
 #import "NSArray+BXAddition.h"
 #import "NSDate+BXAddition.h"
 #import "NSDictionary+BXAddition.h"
@@ -30,6 +32,7 @@
 #import "NSString+BXAddition.h"
 #import "NSTimer+BXAddition.h"
 #import "BXCategoryMacro.h"
+#import "BXUIKitAddition.h"
 #import "UIAlertController+BXAddition.h"
 #import "UIApplication+BXAddition.h"
 #import "UIColor+BXAddition.h"
