@@ -24,6 +24,7 @@
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
 		9E692DF14809BD6455ED54B6 /* Pods_BXToolKit_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7DB198533A72EF423CDDC084 /* Pods_BXToolKit_Tests.framework */; };
 		A35C2E338D31E76EA8FB9C68 /* Pods_BXToolKit_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F9983D28EACA665889D07F60 /* Pods_BXToolKit_Example.framework */; };
+		D3DBD22D228C44D4001D2AB2 /* BXToolKit.podspec in Resources */ = {isa = PBXBuildFile; fileRef = D3DBD22C228C44D4001D2AB2 /* BXToolKit.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,9 +64,9 @@
 		7DB198533A72EF423CDDC084 /* Pods_BXToolKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BXToolKit_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		A6F488B435CB8DE31794045B /* Pods-BXToolKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BXToolKit_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BXToolKit_Tests/Pods-BXToolKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		D3DBD22C228C44D4001D2AB2 /* BXToolKit.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = BXToolKit.podspec; path = ../BXToolKit.podspec; sourceTree = "<group>"; };
 		DBA167DBDBC5E8A64E22B2E5 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		EBB7E92E9810A0CE4601D02A /* Pods-BXToolKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BXToolKit_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BXToolKit_Example/Pods-BXToolKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F53D2BFF9C1FC0E5FA7B5B49 /* BXToolKit.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BXToolKit.podspec; path = ../BXToolKit.podspec; sourceTree = "<group>"; };
 		F9983D28EACA665889D07F60 /* Pods_BXToolKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BXToolKit_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -178,7 +179,7 @@
 		60FF7A9C1954A5C5007DD14C /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				F53D2BFF9C1FC0E5FA7B5B49 /* BXToolKit.podspec */,
+				D3DBD22C228C44D4001D2AB2 /* BXToolKit.podspec */,
 				68506550A59D187C36F90F93 /* README.md */,
 				DBA167DBDBC5E8A64E22B2E5 /* LICENSE */,
 			);
@@ -276,6 +277,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D3DBD22D228C44D4001D2AB2 /* BXToolKit.podspec in Resources */,
 				873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */,
 				71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */,
 				6003F5A9195388D20070C39A /* Images.xcassets in Resources */,
