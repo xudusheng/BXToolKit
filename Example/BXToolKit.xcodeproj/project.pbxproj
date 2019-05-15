@@ -324,7 +324,7 @@
 			inputFileListPaths = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-BXToolKit_Example/Pods-BXToolKit_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-BXToolKit_Example/Pods-BXToolKit_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/BXToolKit/BXToolKit.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -335,7 +335,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-BXToolKit_Example/Pods-BXToolKit_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BXToolKit_Example/Pods-BXToolKit_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FC83EBC1DF5B67F1CF69F6B0 /* [CP] Check Pods Manifest.lock */ = {

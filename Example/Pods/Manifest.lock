@@ -1,5 +1,11 @@
 PODS:
-  - BXToolKit (0.0.1)
+  - BXToolKit (0.0.1):
+    - BXToolKit/DataTool (= 0.0.1)
+    - BXToolKit/Foundation (= 0.0.1)
+    - BXToolKit/UIKit (= 0.0.1)
+  - BXToolKit/DataTool (0.0.1)
+  - BXToolKit/Foundation (0.0.1)
+  - BXToolKit/UIKit (0.0.1)
 
 DEPENDENCIES:
   - BXToolKit (from `../`)
@@ -9,8 +15,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  BXToolKit: 1e85c694abbdc1149d058207ae90b2373909889e
+  BXToolKit: 1040bab3f1106b3d7a68011aa838b9ff747f6178
 
 PODFILE CHECKSUM: 226f6a0f2eac129c6635a9117bef0fe2639a0fe6
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.1
