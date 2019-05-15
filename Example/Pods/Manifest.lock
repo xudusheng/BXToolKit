@@ -1,0 +1,16 @@
+PODS:
+  - BXToolKit (0.0.1)
+
+DEPENDENCIES:
+  - BXToolKit (from `../`)
+
+EXTERNAL SOURCES:
+  BXToolKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BXToolKit: 1e85c694abbdc1149d058207ae90b2373909889e
+
+PODFILE CHECKSUM: 226f6a0f2eac129c6635a9117bef0fe2639a0fe6
+
+COCOAPODS: 1.5.3
