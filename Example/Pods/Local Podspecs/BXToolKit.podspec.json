@@ -18,18 +18,5 @@
   "platforms": {
     "ios": "8.0"
   },
-  "subspecs": [
-    {
-      "name": "Foundation",
-      "source_files": "BXToolKit/Classes/Foundation/*"
-    },
-    {
-      "name": "UIKit",
-      "source_files": "BXToolKit/Classes/UIKit/*"
-    },
-    {
-      "name": "DataTool",
-      "source_files": "BXToolKit/Classes/DataTool/*"
-    }
-  ]
+  "source_files": "BXToolKit/Classes/**/*"
 }

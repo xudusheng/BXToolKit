@@ -38,17 +38,19 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 
+ s.source_files = 'BXToolKit/Classes/**/*'
 
-s.subspec 'Foundation' do |a|
-a.source_files = 'BXToolKit/Classes/Foundation/*'
-end
 
-s.subspec 'UIKit' do |a|
-a.source_files = 'BXToolKit/Classes/UIKit/*'
-end
+# s.subspec 'Foundation' do |a|
+# a.source_files = 'BXToolKit/Classes/Foundation/*'
+# end
 
-s.subspec 'DataTool' do |a|
-a.source_files = 'BXToolKit/Classes/DataTool/*'
-end
+# s.subspec 'UIKit' do |a|
+# a.source_files = 'BXToolKit/Classes/UIKit/*'
+# end
+
+# s.subspec 'DataTool' do |a|
+# a.source_files = 'BXToolKit/Classes/DataTool/**/*'
+# end
 
 end
